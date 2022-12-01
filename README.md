@@ -11,4 +11,5 @@ I used the line chart to determine the revenue trend between January to May. I a
 Finally I included a textbox to highlight my insights showing the top revenue products , the sales team which made the most revenue as well as the relationship between revenue, population and the median income of the states.
 
 [Copy of Sales Data_Executive Reporting-Cynthia Ani.xlsx](https://github.com/cannydee/Revenue-Dashboard/files/10132668/Copy.of.Sales.Data_Executive.Reporting-Cynthia.Ani.xlsx)
+
 ![My excel dashboard](https://user-images.githubusercontent.com/94903456/205064426-7bf72d73-8e08-4acc-8345-469c4f982f2c.png)
