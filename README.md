@@ -1,5 +1,5 @@
 # Revenue-Dashboard
-Revenue report dashboard for DLTM Retail
+Revenue report dashboard for DTLM Retail Store.
 
 My first dashboard was created using Microsoft Excel. The dataset used was gotten from the sales data of DLTM Retail which consists of the sales table, sales team, products and store locations each stored on separate sheets.
 
